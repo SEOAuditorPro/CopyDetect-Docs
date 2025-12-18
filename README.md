@@ -137,4 +137,4 @@ For product updates and usage:
 ---
 
 © CopyDetect — Documentation Repository  
-Part of the SEOAuditorPro ecosystem
+Part of the SEOAuditor ecosystem
